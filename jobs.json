@@ -1,0 +1,18 @@
+{
+  "jobs": [
+    {
+      "id": "dcdf",
+      "title": "Jerome Ross",
+      "type": "Remote",
+      "location": "Voluptas tempore as",
+      "description": "Vero velit minim cum",
+      "salary": "$70K - $80K",
+      "company": {
+        "name": "Kent Flynn Inc",
+        "description": "Assumenda dolore cor",
+        "contactEmail": "vucak@mailinator.com",
+        "contactPhone": "+1 (305) 597-1039"
+      }
+    }
+  ]
+}
